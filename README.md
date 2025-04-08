@@ -2,8 +2,6 @@
 
 A blockchain explorer application for Radiant (RXD) blockchain glyphs, allowing users to browse, search, and view details of glyphs stored on the Radiant blockchain.
 
-![RDX Glyph Explorer](https://placeholder.svg?height=400&width=800&text=RDX+Glyph+Explorer)
-
 ## Features
 
 - Browse and search glyphs by name, description, or creator
