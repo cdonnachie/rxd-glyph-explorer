@@ -33,9 +33,8 @@ An explorer for Radiant (RXD) blockchain glyphs, allowing users to browse, searc
 ```bash
 git clone https://github.com/cdonnachie/rxd-glyph-explorer.git
 cd rxd-glyph-explorer
-
+```
 2. Install dependencies:
-
 
 ```shellscript
 pnpm install
